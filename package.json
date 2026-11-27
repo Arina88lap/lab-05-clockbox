@@ -1,0 +1,7 @@
+{
+  "name": "vis-clockbox",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"start": "node app.js", "test": "node --test"},
+  "dependencies": {"express": "5.1.0"}
+}
